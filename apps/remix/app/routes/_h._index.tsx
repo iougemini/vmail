@@ -305,7 +305,7 @@ export default function Index() {
             )}
             {loaderData.domains && loaderData.domains.length > 1 && (
               <>
-                <div className="mb-3 text-sm font-semibold">{t("Domain")} 仅nieai.us.kg可以发送邮件</div>
+                <div className="mb-3 text-sm font-semibold">{t("Domain")} 仅niege.us.kg可以发送邮件</div>
                 <select
                   id="selectDomain"
                   name="selectDomain"
