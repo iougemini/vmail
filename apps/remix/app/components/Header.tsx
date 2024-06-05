@@ -13,12 +13,12 @@ export default function Header() {
           <span>NIE.MAIL</span>
         </button>
       </Link>
-      <!--<Link
+      {/* <Link
         to="https://chat.sorapi.dev"
         target="_blank"
         className="ml-auto text-sm md:text-base hidden md:block">
         {t("GPT")}
-      </Link>-->
+      </Link> */}
       <Link
         to="/about"
         className="ml-3 md:ml-8 text-sm md:text-base hidden md:block">
