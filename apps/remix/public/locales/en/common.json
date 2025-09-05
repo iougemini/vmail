@@ -2,7 +2,7 @@
   "Donate": "Donate",
   "Virtual Temporary Email": "Virtual Temporary Email",
   "Privacy friendly": "Privacy friendly",
-  "Valid for 1 Day": "Valid for 1 Day",
+  "Valid for 1 Day": "Valid for 30 Day",
   "AD friendly": "AD friendly",
   "100% Run on Cloudflare": "100% Run on Cloudflare",
   "Email address": "Email address",
@@ -42,3 +42,4 @@
   "How to get a password? Click to create a temporary email and receive at least one email to generate a password": "How to get a password? Click to create a temporary email and receive at least one email to generate a password",
   "Blog": "Blog"
 }
+
