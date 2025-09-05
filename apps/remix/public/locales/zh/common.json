@@ -2,7 +2,7 @@
   "Donate": "打赏",
   "Virtual Temporary Email": "虚拟临时邮箱",
   "Privacy friendly": "免费创建无限邮箱",
-  "Valid for 1 Day": "有效期 1 天",
+  "Valid for 1 Day": "有效期 30 天",
   "AD friendly": "支持多域名后缀",
   "100% Run on Cloudflare": "累计接收10万封邮件",
   "Email address": "电子邮件地址",
@@ -42,3 +42,4 @@
   "How to get a password? Click to create a temporary email and receive at least one email to generate a password": "如何获取密码？点击“创建临时邮箱”，且至少收到一封邮件即可生成密码",
   "Blog": "博客"
 }
+
